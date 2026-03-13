@@ -1,29 +1,147 @@
-<h1 align="center">Hi 👋, I'm Adebambo Akande</h1>
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Akinlolu Adebambo Akande</h1>
+<h3 align="center">Senior Software Engineer | Full-Stack Developer | Fintech & AI Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bambo999&label=Profile%20views&color=0e75b6&style=flat" alt="bambo999" /> </p>
-
-<p align="left"> <a href="https://twitter.com/akandeadebambo" target="blank"><img src="https://img.shields.io/twitter/follow/akandeadebambo?logo=twitter&style=for-the-badge" alt="akandeadebambo" /></a> </p>
-
-I'm a ardent Full-Stack Web Developer who enjoys creating next-generation digital solutions. I've been creating unique web solutions for the past three years using technologies like JavaScript (React JS, Express, and Node JS), SQL, Oracle database, MongoDB and Cloud Services. I presently work as an automation software engineer for Huawei, where I work with team of engineers to develop and maintain apps for automating processes and improving work delivery.
-
-- 🔭 I’m currently working on [Automated Clouds](@ Horizonpay)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **akandeadebambo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akandeadebambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akandeadebambo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akandeadebambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akandeadebambo" height="30" width="40" /></a>
+<p align="center">
+Software Engineer with 6+ years of experience building scalable web, mobile, fintech and AI-powered applications across Africa and Asia.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bambo999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bambo999&show_icons=true&locale=en&layout=compact" alt="bambo999" /></p>
+<p align="center">
+<a href="https://twitter.com/akandeadebambo" target="_blank">
+<img src="https://img.shields.io/twitter/follow/akandeadebambo?logo=twitter&style=for-the-badge" />
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bambo999&show_icons=true&locale=en" alt="bambo999" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bambo999&" alt="bambo999" /></p>
+# 👨‍💻 About Me
+
+I'm a **Senior Software Engineer and Engineering Lead** with over **6 years of experience** designing and delivering **enterprise-grade software solutions** across multiple industries including **Fintech, Telecommunications, Cloud Platforms, and AI-powered applications**.
+
+I specialize in **Full-Stack Web Development, Mobile Development, and AI integrations**, building scalable digital platforms used across **Nigeria, Liberia, Ghana, Tanzania, and Switzerland**.
+
+Currently working as a **Frontend Engineer in Fintech**, where I build high-performance digital banking platforms, payment systems, and merchant management solutions.
+
+I enjoy solving complex problems, building scalable systems, and leading engineering teams to deliver high-quality software.
+
+---
+
+### 🔭 Current Focus
+
+- Fintech platforms & digital banking systems  
+- AI-powered applications using **OpenAI API & RAG architecture**  
+- Full-stack SaaS platform development  
+- Cloud-native application deployment  
+
+---
+
+### 💬 Ask Me About
+
+- MERN Stack Development  
+- React.js & Next.js Applications  
+- Flutter Mobile Development  
+- Fintech Systems & Payment Integrations  
+- AI Applications (OpenAI, ChatGPT, RAG)  
+- SaaS Platform Architecture  
+
+---
+
+### 📫 Contact
+
+📧 **Email:** akandeadebambo@gmail.com  
+📱 **Phone:** +234 7062399001  
+
+🌐 **LinkedIn:**  
+https://www.linkedin.com/in/akande-adebambo
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/akandeadebambo" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/akandeadebambo" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend Development
+React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+### Mobile Development
+Flutter (Dart) • React Native • Android & iOS Deployment
+
+### AI & LLM Development
+OpenAI API • ChatGPT Integration • RAG (Retrieval-Augmented Generation) • Prompt Engineering • AI Audio Generation
+
+### Backend & APIs
+Node.js • Express.js • Laravel • PHP • REST APIs • WebSocket • Firebase
+
+### Databases
+PostgreSQL • MySQL • SQL • Oracle 11g • Prisma ORM
+
+### Authentication & Security
+NextAuth.js • JWT • OAuth2 • RBAC • Middleware
+
+### State Management
+Redux • TanStack Query • Context API • Riverpod • BloC • Provider
+
+### Cloud & DevOps
+AWS (EC2, S3, CloudFront)  
+Vercel • Netlify • DigitalOcean • IBM Cloud  
+Docker • GitHub Actions • GitLab CI/CD
+
+### Fintech Integrations
+Payment Gateways  
+BVN / NIN / CAC Verification  
+VAS Services (Airtime, Data, Bills)  
+Account Generation APIs
+
+### Tools & Workflow
+Git • Agile/Scrum • Figma • Code Reviews • System Architecture
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bambo999&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambo999&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bambo999&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌍 Experience Highlights
+
+✔ Built **enterprise fintech platforms** including admin dashboards, payment gateways, and digital banking apps.
+
+✔ Developed **mobile banking applications** using Flutter for microfinance and commercial banks.
+
+✔ Led engineering teams delivering telecom software solutions across **multiple international markets**.
+
+✔ Built **automation tools improving operational efficiency by over 90%**.
+
+✔ Integrated **AI-powered systems using OpenAI APIs and RAG architectures**.
+
+✔ Designed **scalable SaaS platforms with authentication, billing systems, and multi-role dashboards**.
+
+---
+
+⭐️ From **Akinlolu Adebambo Akande**
