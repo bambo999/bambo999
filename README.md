@@ -1,35 +1,58 @@
-# Hi, I'm Akande Akinlolu Adebambo 👋
+# 👋 Hi, I'm Akande Akinlolu Adebambo
 
-**Full-Stack Software Engineer | Fintech & Payment Systems | Web, Mobile & Backend**
+<h3 align="center">Senior Fullstack Engineer | Node.js & TypeScript | Flutter | Fintech & AI</h3>
 
-I'm a software engineer with **6+ years of experience** building web applications, mobile apps, backend services, and fintech platforms. I work across the stack, from Flutter and React interfaces to Node.js APIs, databases, and event-driven payment workflows.
+<p align="center">
+  <a href="https://linkedin.com/in/akande-adebambo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/akandeadebambo">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x" alt="Twitter" />
+  </a>
+  <a href="mailto:akandeadebambo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### 🛠️ Tech Stack
+---
 
-* **Backend:** Node.js, NestJS, Express.js, REST APIs
-* **Databases & Caching:** PostgreSQL, MySQL, Redis, Prisma, SQL
-* **Messaging & Architecture:** Kafka, RabbitMQ, NATS, event-driven systems, microservices
-* **Mobile:** Flutter, Dart, React Native
-* **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
-* **Cloud & DevOps:** AWS, Docker, GitHub Actions, GitLab CI/CD, Fastlane
-* **Security & Authentication:** JWT, OAuth 2.0, RBAC, OTP, biometric authentication
-* **Fintech & AI:** Payment gateways, digital banking, BVN/NIN verification, virtual accounts, OpenAI, RAG
+## 🚀 About Me
 
-### 🚀 Engineering Highlights
+I'm a **fullstack engineer with 6+ years of experience** building and owning production software in fintech, telecommunications and AI, from architecture to launch and ongoing operation.
 
-* **Backend & Microservices:** Built and maintained services across a 9-service architecture, working with Node.js, NestJS, PostgreSQL, Redis, and asynchronous messaging.
-* **Payments & Fintech:** Developed digital banking and agency banking workflows covering transfers, wallet transactions, bill payments, commissions, transaction reversals, and webhook processing.
-* **Mobile Engineering:** Delivered Flutter applications for banking, merchant operations, and in-branch workflows, including authentication, payment integrations, and production releases.
-* **Reliability & Testing:** Focused on reliable transaction processing, automated testing, and production observability, with experience targeting 99.9% availability and maintaining a suite of 170+ tests.
-* **Web & AI Applications:** Built React/Next.js applications, reusable UI components, API integrations, and AI-powered features using OpenAI and retrieval-augmented generation (RAG).
-* **Technical Leadership:** Led software delivery and cross-functional teams on telecom and business automation projects across multiple countries.
+My strongest work is **event-driven Node.js and TypeScript backends**, **PostgreSQL transactions and locking**, and **Flutter mobile apps** used by real customers, backed by **React and Next.js** web apps and **AI features** built on OpenAI and vector search.
 
-### 📌 What I'm Interested In
+I've led engineering teams across **Nigeria, Ghana, Tanzania and Switzerland**, and I care about data integrity, reliability under load, and shipping things people actually use.
 
-Full-stack and backend engineering, fintech infrastructure, payment systems, scalable APIs, event-driven architecture, and cross-platform mobile applications.
+---
 
-### 📫 Connect With Me
+## 🏆 Highlights
 
-* **LinkedIn:** [linkedin.com/in/akande-adebambo](https://linkedin.com/in/akande-adebambo)
+* Led the move from a legacy monolith to a **9-service NestJS monorepo**, cutting inter-service latency by **40%** and enabling zero-downtime deployments.
+* Built an **ACID-compliant wallet ledger** with row locking, atomic debit and credit, and automatic reversals, reaching **99.9% transaction success**.
+* Engineered **idempotent webhook handlers** and a **real-time bank transfer pipeline** with settlement reconciliation and dead-letter retries.
+* Wrote **170+ automated tests** (Jest, Supertest, Cypress) covering wallet concurrency and webhook idempotency.
+* Shipped **Flutter and React Native apps** to the App Store and Google Play, including native Android integration for card-reader hardware.
+* Took an **AI feature** (OpenAI and Pinecone semantic search and summarization) from concept to production.
+* Built automation tools that improved operational efficiency by **over 90%**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Node.js • TypeScript • NestJS • Express • REST • WebSockets • Python
+**Data & Messaging:** PostgreSQL • Redis • MongoDB • MySQL • Prisma • TypeORM • NATS • Kafka • RabbitMQ
+**Web:** React • Next.js • Tailwind CSS • Redux • TanStack Query
+**Mobile:** Flutter (Dart) • React Native • Riverpod • BLoC • Fastlane
+**Cloud & DevOps:** AWS (EKS, ECR, EC2, S3, CloudFront) • Docker • Kubernetes • Helm • GitHub Actions • GitLab CI/CD
+**Security & Testing:** JWT • OAuth 2.0 • RBAC • Jest • Supertest • Cypress • Sentry
+**AI:** OpenAI API • RAG • Pinecone • Claude Code • Cursor • GitHub Copilot
+
+---
+
+## 📫 Let's Connect
+
 * **Email:** [akandeadebambo@gmail.com](mailto:akandeadebambo@gmail.com)
-* **GitHub:** [@bambo999](https://github.com/bambo999)
+* **LinkedIn:** [linkedin.com/in/akande-adebambo](https://www.linkedin.com/in/akande-adebambo)
+* **Twitter/X:** [@akandeadebambo](https://twitter.com/akandeadebambo)
+* **Location:** Lagos, Nigeria (open to remote roles)
