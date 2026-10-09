@@ -57,6 +57,7 @@ React • Next.js • Tailwind CSS • Redux • TanStack Query
 
 ### Mobile
 <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile" />
+<img src="https://skillicons.dev/icons?i=react" alt="React Native" />
 
 Flutter (Dart) • React Native • Riverpod • BLoC • Fastlane
 
