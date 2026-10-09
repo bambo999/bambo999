@@ -1,292 +1,203 @@
- <h1 align="center">Hi 👋, I'm Akinlolu Adebambo Akande</h1>
-<h3 align="center">Senior Software Engineer | Frontend & Mobile Engineering | Fintech, Payments & AI</h3>
+# 👋 Hi, I'm Akinlolu Adebambo Akande
+
+<h3 align="center">Full-Stack Software Engineer | Fintech & Payment Systems | Web, Mobile & AI</h3>
 
 <p align="center">
-  Building scalable digital products, secure financial platforms, intelligent applications, and high-performance web and mobile experiences.
+  Building scalable, secure, and high-performance software solutions across web, mobile, backend systems, and AI-powered applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bambo999&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bambo999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/akande-adebambo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
   <a href="https://twitter.com/akandeadebambo">
-    <img src="https://img.shields.io/twitter/follow/akandeadebambo?logo=x&style=flat" alt="Follow on X" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x" alt="Twitter" />
+  </a>
+  <a href="mailto:akandeadebambo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akande-adebambo">LinkedIn</a> •
-  <a href="https://github.com/bambo999">GitHub</a> •
-  <a href="mailto:akandeadebambo@gmail.com">Email Me</a>
-</p>
+---
+
+## 🚀 About Me
+
+I'm a **Full-Stack Software Engineer with 7+ years of software engineering experience**, building production-ready applications across fintech, telecommunications, enterprise software, cloud platforms, and AI-powered solutions.
+
+My core strength is developing complete software products—from responsive user interfaces and mobile applications to API integrations, backend services, database interactions, and deployment pipelines.
+
+I have extensive experience with **React, Next.js, TypeScript, Node.js, Flutter, and modern application architectures**, with a particular focus on fintech platforms, digital banking, agency banking, payment processing, and business-critical applications.
+
+My experience spans projects serving markets across **Nigeria, Ghana, Tanzania, and Switzerland**, including mobile banking applications, merchant platforms, agency banking solutions, telecom software, and internal enterprise tools.
+
+I combine strong frontend engineering with practical backend and systems experience to deliver software that is maintainable, secure, reliable, and scalable.
+
+### 🎯 What I Bring
+
+* **Full-Stack Engineering:** Building end-to-end applications with modern frontend frameworks, backend services, REST APIs, and relational databases.
+* **Frontend Engineering:** Developing performant, responsive applications with reusable components, scalable state management, and robust error handling.
+* **Mobile Engineering:** Building cross-platform Android and iOS applications using Flutter and Dart, including native Android integrations.
+* **Fintech & Payments:** Implementing digital banking, agency banking, wallet operations, fund transfers, payment integrations, KYC onboarding, and transaction workflows.
+* **Backend & Systems Engineering:** Working with API design, transaction processing, database consistency, asynchronous events, authentication, and service integrations.
+* **AI & LLM Applications:** Integrating OpenAI APIs, retrieval-augmented generation (RAG), streaming responses, and AI-assisted workflows.
+* **Engineering Delivery:** Contributing to architecture decisions, code reviews, automated testing, CI/CD, production monitoring, and technical collaboration.
 
 ---
 
-## 👨‍💻 About Me
+## 🔭 Current Focus
 
-I'm a **Software Engineer with 7+ years of experience** designing, building, and maintaining production-grade software across fintech, digital banking, telecommunications, SaaS, cloud platforms, and AI-powered applications.
+* Building end-to-end full-stack applications and SaaS platforms.
+* Developing secure fintech and agency banking solutions.
+* Designing reliable backend APIs and transaction processing workflows.
+* Integrating payment providers, identity verification, and financial services.
+* Building AI-powered applications with OpenAI APIs and RAG architectures.
+* Improving application performance, test coverage, observability, and deployment reliability.
+* Exploring scalable, modular architectures for business-critical software.
 
-My expertise spans **frontend engineering, cross-platform mobile development, full-stack systems, payment integrations, and financial technology infrastructure**. I enjoy translating complex business requirements into reliable, secure, and user-friendly digital products.
+## 💬 Ask Me About
 
-I have contributed to fintech products serving microfinance and commercial banking use cases, including mobile banking applications, agency banking platforms, merchant applications, banking aggregator apps, and in-branch payment solutions.
-
-My experience also includes telecom software development and team leadership, delivering solutions across Nigeria, Ghana, Tanzania, and Switzerland.
-
-I work across the product lifecycle—from UI architecture and API integration to authentication, transaction processing, testing, deployment, monitoring, and production support.
-
-**My engineering philosophy:** Build software that is maintainable, secure, observable, scalable, and useful to the people who depend on it.
-
-### 🔭 What I'm Working On & Exploring
-
-* **Fintech & Digital Banking:** Mobile banking, agency banking, merchant platforms, payment workflows, and financial transaction systems.
-* **Frontend Engineering:** High-performance React and Next.js applications, reusable component systems, responsive interfaces, and production reliability.
-* **Mobile Engineering:** Flutter applications for Android and iOS, including payment integrations and POS hardware communication.
-* **Backend & Distributed Systems:** Node.js, NestJS, service-oriented architectures, asynchronous messaging, wallet services, and transaction processing.
-* **AI & Intelligent Applications:** OpenAI integrations, retrieval-augmented generation (RAG), streaming AI interfaces, and AI-powered SaaS products.
-* **Cloud & DevOps:** Containerized applications, CI/CD pipelines, deployment automation, and production monitoring.
-
-### 💬 Ask Me About
-
-* React.js, Next.js, TypeScript, and frontend architecture
-* Flutter, Dart, Android/iOS development, and native platform integrations
-* Digital banking, agency banking, payment gateways, and transaction lifecycles
-* Wallet architecture, ledger entries, transaction reversals, and financial audit trails
-* KYC onboarding, BVN/NIN/CAC verification, biometrics, and secure authentication
-* REST APIs, WebSockets, microservices, and event-driven communication
-* OpenAI API, RAG architecture, and AI-powered SaaS platforms
-* CI/CD, testing strategies, application performance, and production debugging
+* Full-Stack Web Development
+* React.js, Next.js, TypeScript, and JavaScript
+* Node.js, NestJS, REST APIs, and backend integrations
+* Flutter, Dart, and cross-platform mobile development
+* Fintech, digital banking, wallets, and agency banking
+* Payment gateways, transaction processing, and webhook integrations
+* PostgreSQL, MySQL, database design, and Prisma ORM
+* Authentication, authorization, and application security
+* OpenAI APIs, LLM integrations, and RAG applications
+* Docker, CI/CD, automated testing, and cloud deployment
+* System design, application architecture, and performance optimization
 
 ---
 
-## 💳 Fintech & Financial Systems Experience
+## 🛠️ Technical Skills
 
-I build and integrate software for financial products where **transaction integrity, security, reliability, and a clear audit trail** are essential.
-
-### 🏦 Digital Banking & Agency Banking
-
-* Mobile banking applications for microfinance and commercial banking use cases.
-* Agency banking and merchant applications for field agents, merchants, and financial service providers.
-* Banking aggregator applications and in-branch banking solutions.
-* Agent registration, profile management, KYC verification, account-tier progression, and onboarding workflows.
-* Virtual bank account allocation and wallet funding integrations.
-
-### 💰 Wallets, Payments & Transaction Processing
-
-* Wallet systems with separate operational and commission balances.
-* Interbank transfers, account name enquiry, payment processing, and transaction status management.
-* Transaction PIN, OTP verification, biometric authentication, and session management.
-* Atomic wallet balance updates, database locking, duplicate transaction protection, and transaction activity records.
-* Failed-transaction handling, automatic reversals, refunds, and dispute-related adjustments.
-* Configurable transaction charges, fee calculations, commission processing, and balance reconciliation workflows.
-
-### 📲 Value-Added Services (VAS)
-
-* Airtime and mobile data bundle purchases.
-* Electricity bill payments, meter validation, and prepaid token delivery.
-* Cable TV subscriptions and other utility payment integrations.
-* QR payments, QR-based ticket validation, and account-based payment flows.
-* Commission calculations, transaction receipts, and provider failure handling.
-
-### 🪪 Identity, Compliance & Security
-
-* BVN, NIN, and CAC verification integrations.
-* Digital onboarding with liveness detection and facial verification.
-* Tier-based customer and agent verification workflows.
-* Transaction PINs, OTPs, biometrics, JWT authentication, OAuth2, and role-based access control.
-* Wallet restrictions, transaction holds, and dispute-management workflows.
-
-### 💳 POS & Hardware Integration
-
-* Flutter-to-Android integration using Kotlin MethodChannel.
-* Communication between Flutter interfaces and physical EMV card-reader hardware.
-* Card-processing lifecycle handling and hardware interaction states.
-* POS payment workflows, release automation, and mobile application deployment.
-
-### 🔔 Event-Driven Financial Workflows
-
-* Asynchronous transaction notifications through messaging systems.
-* Push notifications with Firebase Cloud Messaging, SMS alerts, email receipts, and in-app notifications.
-* WebSocket-based real-time updates and customer support chat.
-* Webhook processing, duplicate-event protection, and reliable wallet credit workflows.
-* Transaction-linked support tickets, dispute investigation, and refund workflows.
-
----
-
-## 🚀 Featured Engineering Domains
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Frontend Engineering</h3>
-      <ul>
-        <li>React.js, Next.js, TypeScript</li>
-        <li>Reusable UI components and design systems</li>
-        <li>Responsive and accessible interfaces</li>
-        <li>Server/API state and caching with TanStack Query</li>
-        <li>Redux Toolkit and structured state management</li>
-        <li>Code splitting, performance optimization, and error monitoring</li>
-        <li>Real-time dashboards and enterprise applications</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile Engineering</h3>
-      <ul>
-        <li>Flutter and Dart</li>
-        <li>React Native</li>
-        <li>Android and iOS application delivery</li>
-        <li>Riverpod, BLoC, Provider</li>
-        <li>Native Kotlin platform channels</li>
-        <li>Push notifications and real-time features</li>
-        <li>Fastlane, signing, flavors, and store releases</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend & Distributed Systems</h3>
-      <ul>
-        <li>Node.js, NestJS, Express.js</li>
-        <li>REST APIs and WebSockets</li>
-        <li>Microservices and service integrations</li>
-        <li>Redis, RabbitMQ, Kafka</li>
-        <li>Event-driven processing and asynchronous workflows</li>
-        <li>PostgreSQL, MySQL, Prisma ORM</li>
-        <li>Authentication, transaction processing, and API security</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI, SaaS & Cloud</h3>
-      <ul>
-        <li>OpenAI API and LLM integrations</li>
-        <li>Retrieval-augmented generation (RAG)</li>
-        <li>Streaming AI responses and prompt engineering</li>
-        <li>Multi-role SaaS applications</li>
-        <li>AWS, Docker, and cloud deployments</li>
-        <li>GitHub Actions and GitLab CI/CD</li>
-        <li>Monitoring, deployment automation, and reliability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend technologies" />
 </p>
 
-### Mobile
+React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Responsive UI • Reusable Component Libraries • Performance Optimization
+
+### Backend Development & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" alt="Mobile development technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel" alt="Backend technologies" />
 </p>
 
-### Backend & Databases
+Node.js • NestJS • Express.js • Laravel • PHP • REST APIs • WebSockets • Event-Driven Integrations • API Authentication • Backend Service Integration
+
+### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,postgres,mysql,redis,firebase,prisma" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase" alt="Mobile technologies" />
 </p>
 
-### AI, Cloud & DevOps
+Flutter • Dart • React Native • Kotlin • Android MethodChannel Integration • Android & iOS Builds • Push Notifications • Fastlane • Mobile CI/CD • App Store & Play Store Releases
+
+### Databases & Data Access
 
 <p>
-  <img src="https://skillicons.dev/icons?i=openai,aws,docker,kubernetes,githubactions,gitlab,vercel,linux,git" alt="AI, cloud, and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,firebase" alt="Database technologies" />
 </p>
 
-### Additional Technologies & Tools
+PostgreSQL • MySQL • Oracle Database 11g • SQL • Prisma ORM • Relational Data Modeling • Query Optimization • Transaction Management
 
-* **State Management:** Redux Toolkit, TanStack Query, Context API, Riverpod, BLoC, Provider.
-* **APIs & Real-Time:** REST, WebSockets, Laravel Echo, Reverb, Pusher, Firebase Cloud Messaging.
-* **Security:** JWT, OAuth2, RBAC, OTP, transaction PINs, biometrics, protected routes.
-* **Testing & Monitoring:** Jest, Cypress, Flutter Test, Sentry, New Relic, React Error Boundaries.
-* **Databases & ORM:** PostgreSQL, MySQL, Oracle Database 11g, SQL, Prisma ORM.
-* **Payments:** Payment gateways, virtual accounts, QR payments, VAS, BVN/NIN/CAC verification, POS and EMV integrations.
-* **Engineering Tools:** Git, Figma, Fastlane, Agile/Scrum, code reviews, CI/CD, and production debugging.
+### State Management & Data Fetching
 
----
+Redux Toolkit • TanStack Query • Context API • Riverpod • BLoC • Provider • Asynchronous State Management • Caching • Optimistic Updates
 
-## 🏗️ Engineering Principles
+### Fintech, Payments & Agency Banking
 
-I focus on engineering practices that make production systems easier to maintain and safer to operate.
+* Digital banking and merchant applications
+* Agency banking and financial service aggregators
+* Wallet management and balance tracking
+* Interbank transfers and beneficiary name enquiries
+* Payment gateway and virtual account integrations
+* Transaction status management and automated reversals
+* Airtime, data, electricity, and utility bill payments
+* QR payments and transaction receipts
+* BVN, NIN, CAC, liveness, and identity verification integrations
+* Transaction PINs, OTPs, biometrics, and session management
+* Webhooks, idempotency, audit trails, and transaction reconciliation
+* Commission calculations, configurable charges, and financial reporting
+* POS integrations and EMV card-reader communication
 
-* **Modular Architecture:** Feature-first mobile applications, reusable frontend components, and clearly separated service responsibilities.
-* **Financial Integrity:** Atomic balance changes, database transactions, concurrency controls, transaction references, and auditable wallet activity.
-* **Resilient Integrations:** Provider error handling, idempotency, transaction status tracking, and appropriate reversal workflows.
-* **Security by Design:** Protected routes, authentication controls, identity verification, and transaction authorization.
-* **Performance & Reliability:** Caching, route-level code splitting, testing, monitoring, and production error handling.
-* **Engineering Collaboration:** Code reviews, Agile delivery, cross-functional coordination, and continuous improvement.
+### AI & LLM Engineering
 
----
+OpenAI API • ChatGPT Integrations • Retrieval-Augmented Generation (RAG) • Prompt Engineering • Streaming AI Responses • Vector Search Integrations • Human-in-the-Loop AI Workflows
 
-## 💼 Professional Experience Highlights
+### Authentication & Application Security
 
-### Frontend Engineer — Fintech
+JWT • OAuth 2.0 • NextAuth.js • Role-Based Access Control (RBAC) • Protected Routes • Transaction Authorization • OTP Verification • Biometric Authentication • Session Timeout Management
 
-**Cyberbyte Software Limited | October 2022 – Present**
+### Cloud, DevOps & Deployment
 
-* Build and maintain production React, Next.js, TypeScript, and Flutter applications across digital banking and fintech products.
-* Deliver mobile banking, agency banking, merchant, banking aggregator, and in-branch payment solutions.
-* Integrate payment, identity verification, and financial service APIs.
-* Build real-time support features, optimize frontend performance, and improve production observability.
-* Contribute to AI-enabled applications, CI/CD pipelines, automated testing, and mobile release workflows.
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,vercel,netlify,linux,git" alt="Cloud and DevOps technologies" />
+</p>
 
-### Software Developer & Team Lead
+AWS • Docker • GitHub Actions • GitLab CI/CD • Fastlane • Vercel • Netlify • DigitalOcean • IBM Cloud • Linux • Git • Automated Build & Release Pipelines
 
-**Huawei Technologies | March 2020 – October 2022**
+### Testing, Monitoring & Engineering Tools
 
-* Led cross-functional engineering teams delivering telecom software across Nigeria, Ghana, Tanzania, and Switzerland.
-* Developed web and mobile applications, network visualization tools, KPI dashboards, and REST APIs.
-* Built automation tools that improved operational efficiency by over 90%.
-* Automated performance reporting and supported testing, integration, and deployment activities.
-
-### Software Developer
-
-**Heterogeneous Consulting Ltd | March 2015 – July 2016**
-
-* Developed inventory management systems using PHP, Laravel, and MySQL.
-* Built responsive React.js interfaces and reusable components.
-* Optimized SQL queries and database structures, improving response times by 40%.
-* Contributed to Agile development, CI/CD, and peer code reviews.
+Jest • Cypress • Flutter Test • Sentry • New Relic • React Error Boundaries • Figma • Code Reviews • Agile/Scrum • CI/CD • Production Support
 
 ---
 
-## 📱 Production Products & Delivery
+## 💼 Engineering Experience & Selected Work
 
-My mobile engineering experience includes production applications for banking, merchant services, agency banking, and agent operations.
+### 1. Fintech Web Applications
 
-* Emaar MFB — iOS
-* Emaar MRB — Android
-* EmaarPay Agency Banking — Android
-* Banffy — iOS
-* Banffy Agent App — Android
+* Build and maintain production applications using React, Next.js, TypeScript, and Tailwind CSS.
+* Translate designs into accessible, responsive, reusable component libraries.
+* Integrate REST APIs using structured data-fetching and caching strategies.
+* Optimize frontend performance through code splitting, lazy loading, and efficient state management.
+* Implement real-time support chat and interactive features using WebSockets and event-based integrations.
+* Improve application reliability through automated tests, error boundaries, and production monitoring.
+* Contribute to AI-powered applications with streaming responses and RAG workflows.
 
-I have worked on mobile application architecture, secure authentication, financial API integration, native hardware communication, testing, code signing, and app store releases.
+### 2. Mobile Banking & Agency Banking Ecosystems
 
----
+* Led the architecture and delivery of cross-platform fintech applications for Android and iOS.
+* Built mobile banking, merchant, agency banking, banking aggregator, and in-branch application workflows.
+* Implemented fund transfers, pay-with-transfer, virtual accounts, QR payments, and digital receipts.
+* Integrated identity verification, digital onboarding, and automated account provisioning.
+* Developed transaction authorization flows using PINs, OTPs, biometrics, and session controls.
+* Integrated push notifications, real-time transaction updates, and in-app support messaging.
+* Bridged Flutter applications with native Android functionality for EMV hardware and physical card-reader operations.
+* Managed mobile build configurations, signing, automated releases, testing, and deployment pipelines.
 
-## 🤖 AI & SaaS Development
+### 3. Backend Systems & Financial Transaction Workflows
 
-I also build AI-enabled applications that combine modern frontend experiences with intelligent backend services.
+* Work with API integrations and backend service workflows supporting financial products.
+* Implement and reason about wallet operations, transaction states, configurable charges, and commission calculations.
+* Handle transaction failures, automated reversals, and financial activity audit trails.
+* Apply database transactions, locking, and idempotency patterns to protect financial operations against duplicate processing and concurrent requests.
+* Integrate external banking, identity verification, payment, and value-added service providers.
+* Work with asynchronous messaging, event-driven notifications, webhooks, and service-to-service communication.
+* Build systems that prioritize consistency, traceability, security, and dependable transaction outcomes.
 
-* OpenAI API integration and LLM-powered workflows.
-* Retrieval-augmented generation (RAG) for context-aware AI applications.
-* Streaming AI responses and human review of AI-generated output.
-* SaaS applications with authentication, role-based access, and multi-role dashboards.
-* API integrations, database-backed workflows, and cloud deployment.
+### 4. Enterprise Software & Telecommunications
 
-My broader development interests include AI-assisted software engineering, automation, and practical applications of LLMs in business software.
+* Led cross-functional engineering teams delivering software across multiple international markets.
+* Developed web and mobile applications supporting telecommunications operations.
+* Built interactive network coverage visualizations and KPI dashboards.
+* Developed RESTful APIs, internal automation tools, and reporting workflows.
+* Delivered automation improvements that increased operational efficiency by over 90%.
+* Contributed to testing, performance optimization, technical coordination, and production delivery.
 
----
+### 5. AI-Powered Applications & SaaS
 
-## 🎓 Education & Certifications
-
-* **Master of Engineering (M.Eng.) — Information & Communication Engineering**, Harbin Institute of Technology, China (2019).
-* **Bachelor of Technology (B.Tech.) — Physics**, Ladoke Akintola University of Technology, Nigeria (2012).
-* Huawei GDE Programming & Orchestration — Professional (2022), Associate (2021).
-* Oracle Database 11g Administrator Certified Associate.
-* Oracle Database SQL Certified Expert.
+* Develop AI-enabled applications integrating OpenAI APIs and retrieval-augmented generation.
+* Build full-stack application workflows that combine frontend experiences, backend integrations, and AI services.
+* Explore streaming responses, contextual retrieval, and human review of AI-generated outputs.
+* Apply modern application architecture and reusable components to support maintainable SaaS products.
 
 ---
 
@@ -297,7 +208,7 @@ My broader development interests include AI-assisted software engineering, autom
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambo999&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambo999&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
@@ -306,22 +217,38 @@ My broader development interests include AI-assisted software engineering, autom
 
 ---
 
-## 🤝 Connect With Me
+## 🎓 Education & Certifications
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akande-adebambo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/akandeadebambo">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X" />
-  </a>
-  <a href="mailto:akandeadebambo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+* **Master of Engineering (M.Eng.) in Information & Communication Engineering** — Harbin Institute of Technology, China.
+* **Bachelor of Technology (B.Tech.) in Physics** — Ladoke Akintola University of Technology, Nigeria.
+* Huawei GDE Programming & Orchestration — Professional and Associate.
+* Oracle Database 11g Administrator Certified Associate.
+* Oracle Database SQL Certified Expert.
+
+---
+
+## 🌍 Beyond the Code
+
+I enjoy solving complex engineering problems, designing practical software architectures, exploring emerging technologies, and collaborating with teams to turn ideas into reliable products.
+
+My goal is to build software that combines great user experiences with dependable backend systems, sound engineering practices, and measurable business value.
+
+I'm particularly interested in opportunities involving **full-stack engineering, fintech infrastructure, backend development, SaaS platforms, and AI-powered products**.
+
+## 📫 Let's Connect
+
+* **Email:** [akandeadebambo@gmail.com](mailto:akandeadebambo@gmail.com)
+* **LinkedIn:** [linkedin.com/in/akande-adebambo](https://www.linkedin.com/in/akande-adebambo)
+* **Twitter/X:** [@akandeadebambo](https://twitter.com/akandeadebambo)
+* **Location:** Lagos, Nigeria
+* **Opportunities:** Full-Stack Software Engineering • Backend Engineering • Senior Frontend Engineering • Mobile Engineering
+
+---
+
+<p align="center">
+  <b>Building reliable software. Solving real-world problems. Delivering meaningful impact.</b>
 </p>
 
-📍 Lagos, Nigeria | Open to remote opportunities and relocation.
-
-📧 [akandeadebambo@gmail.com](mailto:akandeadebambo@gmail.com)
-
-⭐ Thanks for visiting my profile. Feel free to explore my repositories, connect with me, or collaborate on projects involving fintech, web and mobile engineering, distributed systems, and AI-powered applications.
+<p align="center">
+  ⭐️ Thanks for visiting my profile!
+</p>
