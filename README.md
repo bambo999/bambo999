@@ -40,13 +40,38 @@ I've led engineering teams across **Nigeria, Ghana, Tanzania and Switzerland**, 
 
 ## 🛠️ Tech Stack
 
-**Backend:** Node.js • TypeScript • NestJS • Express • REST • WebSockets • Python
-**Data & Messaging:** PostgreSQL • Redis • MongoDB • MySQL • Prisma • TypeORM • NATS • Kafka • RabbitMQ
-**Web:** React • Next.js • Tailwind CSS • Redux • TanStack Query
-**Mobile:** Flutter (Dart) • React Native • Riverpod • BLoC • Fastlane
-**Cloud & DevOps:** AWS (EKS, ECR, EC2, S3, CloudFront) • Docker • Kubernetes • Helm • GitHub Actions • GitLab CI/CD
-**Security & Testing:** JWT • OAuth 2.0 • RBAC • Jest • Supertest • Cypress • Sentry
-**AI:** OpenAI API • RAG • Pinecone • Claude Code • Cursor • GitHub Copilot
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,python" alt="Backend" />
+
+Node.js • TypeScript • NestJS • Express • REST • WebSockets • Python
+
+### Data & Messaging
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,prisma,kafka,rabbitmq" alt="Data and messaging" />
+
+PostgreSQL • Redis • MongoDB • MySQL • Prisma • TypeORM • NATS • Kafka • RabbitMQ
+
+### Web
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="Web" />
+
+React • Next.js • Tailwind CSS • Redux • TanStack Query
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile" />
+
+Flutter (Dart) • React Native • Riverpod • BLoC • Fastlane
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,gitlab,git" alt="Cloud and DevOps" />
+
+AWS (EKS, ECR, EC2, S3, CloudFront) • Docker • Kubernetes • Helm • GitHub Actions • GitLab CI/CD
+
+### Security & Testing
+<img src="https://skillicons.dev/icons?i=jest,cypress,sentry" alt="Security and testing" />
+
+JWT • OAuth 2.0 • RBAC • Jest • Supertest • Cypress • Sentry
+
+### AI
+OpenAI API • RAG • Pinecone • Claude Code • Cursor • GitHub Copilot
 
 ---
 
