@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **fullstack engineer with 6+ years of experience** building and owning production software in fintech, telecommunications and AI, from architecture to launch and ongoing operation.
+I'm a **fullstack engineer with 7+ years of experience** building and owning production software in fintech, telecommunications and AI, from architecture to launch and ongoing operation.
 
 My strongest work is **event-driven Node.js and TypeScript backends**, **PostgreSQL transactions and locking**, and **Flutter mobile apps** used by real customers, backed by **React and Next.js** web apps and **AI features** built on OpenAI and vector search.
 
